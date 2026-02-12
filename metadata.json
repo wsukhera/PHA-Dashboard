@@ -1,0 +1,5 @@
+{
+  "name": "PHA Geo-Spatial Dashboard",
+  "description": "A GIS-based digital mapping and monitoring system for Parks & Horticulture Authority Punjab.",
+  "requestFramePermissions": []
+}
